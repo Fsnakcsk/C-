@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\13. posfix 겨현 (간단한 Stack로)\postfix\postfix\bin\Debug\postfix.exe.config
+C:\Users\Apple\Desktop\CS Programming\13. posfix 겨현 (간단한 Stack로)\postfix\postfix\bin\Debug\postfix.exe
+C:\Users\Apple\Desktop\CS Programming\13. posfix 겨현 (간단한 Stack로)\postfix\postfix\bin\Debug\postfix.pdb
+C:\Users\Apple\Desktop\CS Programming\13. posfix 겨현 (간단한 Stack로)\postfix\postfix\obj\Debug\postfix.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\13. posfix 겨현 (간단한 Stack로)\postfix\postfix\obj\Debug\postfix.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\13. posfix 겨현 (간단한 Stack로)\postfix\postfix\obj\Debug\postfix.exe
+C:\Users\Apple\Desktop\CS Programming\13. posfix 겨현 (간단한 Stack로)\postfix\postfix\obj\Debug\postfix.pdb

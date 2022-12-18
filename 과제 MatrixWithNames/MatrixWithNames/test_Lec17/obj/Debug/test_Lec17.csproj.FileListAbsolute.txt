@@ -1,0 +1,14 @@
+C:\Users\Apple\Desktop\report\test_Lec17\test_Lec17\bin\Debug\test_Lec17.exe.config
+C:\Users\Apple\Desktop\report\test_Lec17\test_Lec17\bin\Debug\test_Lec17.exe
+C:\Users\Apple\Desktop\report\test_Lec17\test_Lec17\bin\Debug\test_Lec17.pdb
+C:\Users\Apple\Desktop\report\test_Lec17\test_Lec17\obj\Debug\test_Lec17.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\report\test_Lec17\test_Lec17\obj\Debug\test_Lec17.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\report\test_Lec17\test_Lec17\obj\Debug\test_Lec17.exe
+C:\Users\Apple\Desktop\report\test_Lec17\test_Lec17\obj\Debug\test_Lec17.pdb
+C:\Users\Apple\Desktop\CS Programming\과제 MatrixWithNames\MatrixWithNames\test_Lec17\bin\Debug\test_Lec17.exe.config
+C:\Users\Apple\Desktop\CS Programming\과제 MatrixWithNames\MatrixWithNames\test_Lec17\bin\Debug\test_Lec17.exe
+C:\Users\Apple\Desktop\CS Programming\과제 MatrixWithNames\MatrixWithNames\test_Lec17\bin\Debug\test_Lec17.pdb
+C:\Users\Apple\Desktop\CS Programming\과제 MatrixWithNames\MatrixWithNames\test_Lec17\obj\Debug\test_Lec17.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\과제 MatrixWithNames\MatrixWithNames\test_Lec17\obj\Debug\test_Lec17.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\과제 MatrixWithNames\MatrixWithNames\test_Lec17\obj\Debug\test_Lec17.exe
+C:\Users\Apple\Desktop\CS Programming\과제 MatrixWithNames\MatrixWithNames\test_Lec17\obj\Debug\test_Lec17.pdb

@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\17. LinkedList( fostfix로 구현)\linkedlist stack\linkedlist stack\bin\Debug\linkedlist stack.exe.config
+C:\Users\Apple\Desktop\CS Programming\17. LinkedList( fostfix로 구현)\linkedlist stack\linkedlist stack\bin\Debug\linkedlist stack.exe
+C:\Users\Apple\Desktop\CS Programming\17. LinkedList( fostfix로 구현)\linkedlist stack\linkedlist stack\bin\Debug\linkedlist stack.pdb
+C:\Users\Apple\Desktop\CS Programming\17. LinkedList( fostfix로 구현)\linkedlist stack\linkedlist stack\obj\Debug\linkedlist stack.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\17. LinkedList( fostfix로 구현)\linkedlist stack\linkedlist stack\obj\Debug\linkedlist stack.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\17. LinkedList( fostfix로 구현)\linkedlist stack\linkedlist stack\obj\Debug\linkedlist stack.exe
+C:\Users\Apple\Desktop\CS Programming\17. LinkedList( fostfix로 구현)\linkedlist stack\linkedlist stack\obj\Debug\linkedlist stack.pdb

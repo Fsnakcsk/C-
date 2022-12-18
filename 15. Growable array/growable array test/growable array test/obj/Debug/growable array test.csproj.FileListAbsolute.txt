@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\15. Growable array\growable array test\growable array test\bin\Debug\growable array test.exe.config
+C:\Users\Apple\Desktop\CS Programming\15. Growable array\growable array test\growable array test\bin\Debug\growable array test.exe
+C:\Users\Apple\Desktop\CS Programming\15. Growable array\growable array test\growable array test\bin\Debug\growable array test.pdb
+C:\Users\Apple\Desktop\CS Programming\15. Growable array\growable array test\growable array test\obj\Debug\growable array test.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\15. Growable array\growable array test\growable array test\obj\Debug\growable array test.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\15. Growable array\growable array test\growable array test\obj\Debug\growable array test.exe
+C:\Users\Apple\Desktop\CS Programming\15. Growable array\growable array test\growable array test\obj\Debug\growable array test.pdb

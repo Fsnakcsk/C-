@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linklist_fostifx_try_catch", "Linklist_fostifx_try_catch\Linklist_fostifx_try_catch.csproj", "{A5180907-528E-4B3E-9321-38FA76F7EBB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5180907-528E-4B3E-9321-38FA76F7EBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5180907-528E-4B3E-9321-38FA76F7EBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5180907-528E-4B3E-9321-38FA76F7EBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5180907-528E-4B3E-9321-38FA76F7EBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F967E2C-A57A-4C6C-9B0A-B7A8E14B1CB7}
+	EndGlobalSection
+EndGlobal

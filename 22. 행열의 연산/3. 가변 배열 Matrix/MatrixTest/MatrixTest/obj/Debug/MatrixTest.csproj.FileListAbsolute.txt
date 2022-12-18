@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\3. 가변 배열 Matrix\MatrixTest\MatrixTest\bin\Debug\MatrixTest.exe.config
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\3. 가변 배열 Matrix\MatrixTest\MatrixTest\bin\Debug\MatrixTest.exe
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\3. 가변 배열 Matrix\MatrixTest\MatrixTest\bin\Debug\MatrixTest.pdb
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\3. 가변 배열 Matrix\MatrixTest\MatrixTest\obj\Debug\MatrixTest.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\3. 가변 배열 Matrix\MatrixTest\MatrixTest\obj\Debug\MatrixTest.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\3. 가변 배열 Matrix\MatrixTest\MatrixTest\obj\Debug\MatrixTest.exe
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\3. 가변 배열 Matrix\MatrixTest\MatrixTest\obj\Debug\MatrixTest.pdb

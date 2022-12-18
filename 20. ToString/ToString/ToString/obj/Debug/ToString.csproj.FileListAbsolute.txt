@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\20. ToString\ToString\ToString\bin\Debug\ToString.exe.config
+C:\Users\Apple\Desktop\CS Programming\20. ToString\ToString\ToString\bin\Debug\ToString.exe
+C:\Users\Apple\Desktop\CS Programming\20. ToString\ToString\ToString\bin\Debug\ToString.pdb
+C:\Users\Apple\Desktop\CS Programming\20. ToString\ToString\ToString\obj\Debug\ToString.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\20. ToString\ToString\ToString\obj\Debug\ToString.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\20. ToString\ToString\ToString\obj\Debug\ToString.exe
+C:\Users\Apple\Desktop\CS Programming\20. ToString\ToString\ToString\obj\Debug\ToString.pdb

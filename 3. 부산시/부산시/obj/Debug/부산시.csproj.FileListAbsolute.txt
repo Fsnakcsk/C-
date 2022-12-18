@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\부산시\부산시\bin\Debug\부산시.exe.config
+C:\Users\Apple\Desktop\CS Programming\부산시\부산시\bin\Debug\부산시.exe
+C:\Users\Apple\Desktop\CS Programming\부산시\부산시\bin\Debug\부산시.pdb
+C:\Users\Apple\Desktop\CS Programming\부산시\부산시\obj\Debug\부산시.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\부산시\부산시\obj\Debug\부산시.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\부산시\부산시\obj\Debug\부산시.exe
+C:\Users\Apple\Desktop\CS Programming\부산시\부산시\obj\Debug\부산시.pdb

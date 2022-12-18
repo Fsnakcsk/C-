@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\13. posfix 구현 (간단한 Stack로)\tokenizing\tokenizing\bin\Debug\tokenizing.exe.config
+C:\Users\Apple\Desktop\CS Programming\13. posfix 구현 (간단한 Stack로)\tokenizing\tokenizing\bin\Debug\tokenizing.exe
+C:\Users\Apple\Desktop\CS Programming\13. posfix 구현 (간단한 Stack로)\tokenizing\tokenizing\bin\Debug\tokenizing.pdb
+C:\Users\Apple\Desktop\CS Programming\13. posfix 구현 (간단한 Stack로)\tokenizing\tokenizing\obj\Debug\tokenizing.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\13. posfix 구현 (간단한 Stack로)\tokenizing\tokenizing\obj\Debug\tokenizing.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\13. posfix 구현 (간단한 Stack로)\tokenizing\tokenizing\obj\Debug\tokenizing.exe
+C:\Users\Apple\Desktop\CS Programming\13. posfix 구현 (간단한 Stack로)\tokenizing\tokenizing\obj\Debug\tokenizing.pdb

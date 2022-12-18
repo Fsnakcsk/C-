@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\fibo\fibo\bin\Debug\fibo.exe.config
+C:\Users\Apple\Desktop\CS Programming\fibo\fibo\bin\Debug\fibo.exe
+C:\Users\Apple\Desktop\CS Programming\fibo\fibo\bin\Debug\fibo.pdb
+C:\Users\Apple\Desktop\CS Programming\fibo\fibo\obj\Debug\fibo.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\fibo\fibo\obj\Debug\fibo.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\fibo\fibo\obj\Debug\fibo.exe
+C:\Users\Apple\Desktop\CS Programming\fibo\fibo\obj\Debug\fibo.pdb

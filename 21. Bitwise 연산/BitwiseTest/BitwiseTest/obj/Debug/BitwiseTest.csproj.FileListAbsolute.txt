@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\21. Bitwise 연산\BitwiseTest\BitwiseTest\bin\Debug\BitwiseTest.exe.config
+C:\Users\Apple\Desktop\CS Programming\21. Bitwise 연산\BitwiseTest\BitwiseTest\bin\Debug\BitwiseTest.exe
+C:\Users\Apple\Desktop\CS Programming\21. Bitwise 연산\BitwiseTest\BitwiseTest\bin\Debug\BitwiseTest.pdb
+C:\Users\Apple\Desktop\CS Programming\21. Bitwise 연산\BitwiseTest\BitwiseTest\obj\Debug\BitwiseTest.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\21. Bitwise 연산\BitwiseTest\BitwiseTest\obj\Debug\BitwiseTest.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\21. Bitwise 연산\BitwiseTest\BitwiseTest\obj\Debug\BitwiseTest.exe
+C:\Users\Apple\Desktop\CS Programming\21. Bitwise 연산\BitwiseTest\BitwiseTest\obj\Debug\BitwiseTest.pdb

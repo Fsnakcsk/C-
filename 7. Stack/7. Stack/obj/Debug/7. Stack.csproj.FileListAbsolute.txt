@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\7. Stack\7. Stack\obj\Debug\7. Stack.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\7. Stack\7. Stack\obj\Debug\7. Stack.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\7. Stack\7. Stack\bin\Debug\_7.Stack.exe.config
+C:\Users\Apple\Desktop\CS Programming\7. Stack\7. Stack\bin\Debug\_7.Stack.exe
+C:\Users\Apple\Desktop\CS Programming\7. Stack\7. Stack\bin\Debug\_7.Stack.pdb
+C:\Users\Apple\Desktop\CS Programming\7. Stack\7. Stack\obj\Debug\_7.Stack.exe
+C:\Users\Apple\Desktop\CS Programming\7. Stack\7. Stack\obj\Debug\_7.Stack.pdb

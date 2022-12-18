@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\1차원 배열\1차원 배열\bin\Debug\1차원 배열.exe.config
+C:\Users\Apple\Desktop\CS Programming\1차원 배열\1차원 배열\bin\Debug\1차원 배열.exe
+C:\Users\Apple\Desktop\CS Programming\1차원 배열\1차원 배열\bin\Debug\1차원 배열.pdb
+C:\Users\Apple\Desktop\CS Programming\1차원 배열\1차원 배열\obj\Debug\1차원 배열.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\1차원 배열\1차원 배열\obj\Debug\1차원 배열.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\1차원 배열\1차원 배열\obj\Debug\1차원 배열.exe
+C:\Users\Apple\Desktop\CS Programming\1차원 배열\1차원 배열\obj\Debug\1차원 배열.pdb

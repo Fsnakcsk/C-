@@ -1,0 +1,30 @@
+
+specification(명세부) : 사용자 입장에서 알아야 할 최소한의 지식 
+사용목적과 사용방법( 함수 시그니처 )
+
+implementation(구현부) : 공급자 입장에서 알아야 할 모든 지식
+-데이터 멤버/함수 바디
+
+사용자           공급자
+Main 함수    Point class
+고객               콜라
+환자            아스피린
+
+information hiding ( data encapsulation)
+덩보 은닉(자료 캡슐화)
+ : 사용자로 하여금 공급자의 구현 내역을 전혀 몰라도 되게끔 공급자의 구현 정보를 숨기는 행위
+
+가시성(visibility 제어)
+public
+private
+protected
+
+% 객체지향 프로그래머들의 관례 %
+데이터멤버는 구현부이기 때문에 무조건 private로 숨긴다.
+
+access function(관습) - data member에 access하기 위한 함수
+read access function (읽기 위한) :getXXX(), getX(), getY(), getName(), getTitle()
+write access function (데이터에 저장하기 위한) : setXXX(x), setX(10), setY(20),setName("kim"), setTitle("Hello")
+
+
+

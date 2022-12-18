@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\26. LinkeList\TestList\TestList\bin\Debug\TestList.exe.config
+C:\Users\Apple\Desktop\CS Programming\26. LinkeList\TestList\TestList\bin\Debug\TestList.exe
+C:\Users\Apple\Desktop\CS Programming\26. LinkeList\TestList\TestList\bin\Debug\TestList.pdb
+C:\Users\Apple\Desktop\CS Programming\26. LinkeList\TestList\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\26. LinkeList\TestList\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\26. LinkeList\TestList\TestList\obj\Debug\TestList.exe
+C:\Users\Apple\Desktop\CS Programming\26. LinkeList\TestList\TestList\obj\Debug\TestList.pdb

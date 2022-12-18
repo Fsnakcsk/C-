@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6be6eada-3b31-449a-9aab-536ae68491d9": {
+      "ProjectGuid": "6be6eada-3b31-449a-9aab-536ae68491d9",
+      "DisplayName": "generic class lib",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\Meze_song\Meze_song\obj\Debug\Meze_song.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\Meze_song\Meze_song\obj\Debug\Meze_song.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Meze_song\Meze_song\bin\Debug\Meze_song.exe.config
+C:\Users\Apple\Desktop\Meze_song\Meze_song\bin\Debug\Meze_song.exe
+C:\Users\Apple\Desktop\Meze_song\Meze_song\bin\Debug\Meze_song.pdb
+C:\Users\Apple\Desktop\Meze_song\Meze_song\obj\Debug\Meze_song.exe
+C:\Users\Apple\Desktop\Meze_song\Meze_song\obj\Debug\Meze_song.pdb

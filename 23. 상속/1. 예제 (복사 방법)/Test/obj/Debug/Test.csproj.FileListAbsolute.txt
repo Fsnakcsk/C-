@@ -1,0 +1,14 @@
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 간단한 예제\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 간단한 예제\Test\Test\bin\Debug\Test.exe
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 간단한 예제\Test\Test\bin\Debug\Test.pdb
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 간단한 예제\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 간단한 예제\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 간단한 예제\Test\Test\obj\Debug\Test.exe
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 간단한 예제\Test\Test\obj\Debug\Test.pdb
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 예제 (복사 방법)\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 예제 (복사 방법)\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 예제 (복사 방법)\Test\Test\obj\Debug\Test.exe
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 예제 (복사 방법)\Test\Test\obj\Debug\Test.pdb
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 예제 (복사 방법)\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 예제 (복사 방법)\Test\Test\bin\Debug\Test.exe
+C:\Users\Apple\Desktop\CS Programming\23. 상속\1. 예제 (복사 방법)\Test\Test\bin\Debug\Test.pdb

@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+C:\Users\Apple\Desktop\CS Programming\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\Apple\Desktop\CS Programming\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\Apple\Desktop\CS Programming\Hanoi\Hanoi\obj\Debug\Hanoi.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+C:\Users\Apple\Desktop\CS Programming\Hanoi\Hanoi\obj\Debug\Hanoi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\9. StringBulider\TestStringBuilder\TestStringBuilder\bin\Debug\TestStringBuilder.exe.config
+C:\Users\Apple\Desktop\CS Programming\9. StringBulider\TestStringBuilder\TestStringBuilder\bin\Debug\TestStringBuilder.exe
+C:\Users\Apple\Desktop\CS Programming\9. StringBulider\TestStringBuilder\TestStringBuilder\bin\Debug\TestStringBuilder.pdb
+C:\Users\Apple\Desktop\CS Programming\9. StringBulider\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\9. StringBulider\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\9. StringBulider\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.exe
+C:\Users\Apple\Desktop\CS Programming\9. StringBulider\TestStringBuilder\TestStringBuilder\obj\Debug\TestStringBuilder.pdb

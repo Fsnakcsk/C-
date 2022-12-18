@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\11. Student\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\11. Student\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\11. Student\Student\Student\bin\Debug\Student.exe.config
+C:\Users\Apple\Desktop\CS Programming\11. Student\Student\Student\bin\Debug\Student.exe
+C:\Users\Apple\Desktop\CS Programming\11. Student\Student\Student\bin\Debug\Student.pdb
+C:\Users\Apple\Desktop\CS Programming\11. Student\Student\Student\obj\Debug\Student.exe
+C:\Users\Apple\Desktop\CS Programming\11. Student\Student\Student\obj\Debug\Student.pdb

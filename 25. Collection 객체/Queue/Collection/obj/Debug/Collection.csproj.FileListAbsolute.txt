@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\Collection\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\Collection\Collection\obj\Debug\Collection.pdb

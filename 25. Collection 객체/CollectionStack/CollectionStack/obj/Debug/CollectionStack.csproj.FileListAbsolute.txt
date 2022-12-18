@@ -1,0 +1,6 @@
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\CollectionStack\CollectionStack\bin\Debug\CollectionStack.exe.config
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\CollectionStack\CollectionStack\bin\Debug\CollectionStack.exe
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\CollectionStack\CollectionStack\bin\Debug\CollectionStack.pdb
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\CollectionStack\CollectionStack\obj\Debug\CollectionStack.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\CollectionStack\CollectionStack\obj\Debug\CollectionStack.exe
+C:\Users\Apple\Desktop\CS Programming\25. Collection 객체\CollectionStack\CollectionStack\obj\Debug\CollectionStack.pdb

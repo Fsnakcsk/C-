@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\8. string\8. string\bin\Debug\_8.@string.exe.config
+C:\Users\Apple\Desktop\CS Programming\8. string\8. string\bin\Debug\_8.@string.exe
+C:\Users\Apple\Desktop\CS Programming\8. string\8. string\bin\Debug\_8.@string.pdb
+C:\Users\Apple\Desktop\CS Programming\8. string\8. string\obj\Debug\8. string.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\8. string\8. string\obj\Debug\8. string.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\8. string\8. string\obj\Debug\_8.@string.exe
+C:\Users\Apple\Desktop\CS Programming\8. string\8. string\obj\Debug\_8.@string.pdb

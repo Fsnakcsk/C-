@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\19. ComplexNumberText (복소수)\ComplexNumberText\ComplexNumberText\bin\Debug\ComplexNumberText.exe.config
+C:\Users\Apple\Desktop\CS Programming\19. ComplexNumberText (복소수)\ComplexNumberText\ComplexNumberText\bin\Debug\ComplexNumberText.exe
+C:\Users\Apple\Desktop\CS Programming\19. ComplexNumberText (복소수)\ComplexNumberText\ComplexNumberText\bin\Debug\ComplexNumberText.pdb
+C:\Users\Apple\Desktop\CS Programming\19. ComplexNumberText (복소수)\ComplexNumberText\ComplexNumberText\obj\Debug\ComplexNumberText.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\19. ComplexNumberText (복소수)\ComplexNumberText\ComplexNumberText\obj\Debug\ComplexNumberText.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\19. ComplexNumberText (복소수)\ComplexNumberText\ComplexNumberText\obj\Debug\ComplexNumberText.exe
+C:\Users\Apple\Desktop\CS Programming\19. ComplexNumberText (복소수)\ComplexNumberText\ComplexNumberText\obj\Debug\ComplexNumberText.pdb

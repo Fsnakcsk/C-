@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\10. io\Lec03\Lec03\bin\Debug\Lec03.exe.config
+C:\Users\Apple\Desktop\CS Programming\10. io\Lec03\Lec03\bin\Debug\Lec03.exe
+C:\Users\Apple\Desktop\CS Programming\10. io\Lec03\Lec03\bin\Debug\Lec03.pdb
+C:\Users\Apple\Desktop\CS Programming\10. io\Lec03\Lec03\obj\Debug\Lec03.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\10. io\Lec03\Lec03\obj\Debug\Lec03.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\10. io\Lec03\Lec03\obj\Debug\Lec03.exe
+C:\Users\Apple\Desktop\CS Programming\10. io\Lec03\Lec03\obj\Debug\Lec03.pdb

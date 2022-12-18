@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\18. generic class\generic class\generic class\bin\Debug\generic class.exe.config
+C:\Users\Apple\Desktop\CS Programming\18. generic class\generic class\generic class\bin\Debug\generic class.exe
+C:\Users\Apple\Desktop\CS Programming\18. generic class\generic class\generic class\bin\Debug\generic class.pdb
+C:\Users\Apple\Desktop\CS Programming\18. generic class\generic class\generic class\obj\Debug\generic class.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\18. generic class\generic class\generic class\obj\Debug\generic class.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\18. generic class\generic class\generic class\obj\Debug\generic class.exe
+C:\Users\Apple\Desktop\CS Programming\18. generic class\generic class\generic class\obj\Debug\generic class.pdb

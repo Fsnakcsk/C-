@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\MatrixTesT 객선 (객체지향)\MatrixTesT\bin\Debug\MatrixTesT.exe.config
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\MatrixTesT 객선 (객체지향)\MatrixTesT\bin\Debug\MatrixTesT.exe
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\MatrixTesT 객선 (객체지향)\MatrixTesT\bin\Debug\MatrixTesT.pdb
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\MatrixTesT 객선 (객체지향)\MatrixTesT\obj\Debug\MatrixTesT.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\MatrixTesT 객선 (객체지향)\MatrixTesT\obj\Debug\MatrixTesT.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\MatrixTesT 객선 (객체지향)\MatrixTesT\obj\Debug\MatrixTesT.exe
+C:\Users\Apple\Desktop\CS Programming\22. 행열의 연산\MatrixTesT 객선 (객체지향)\MatrixTesT\obj\Debug\MatrixTesT.pdb

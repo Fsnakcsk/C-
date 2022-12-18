@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\27. Tree\BinaryTreeTest\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+C:\Users\Apple\Desktop\CS Programming\27. Tree\BinaryTreeTest\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+C:\Users\Apple\Desktop\CS Programming\27. Tree\BinaryTreeTest\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+C:\Users\Apple\Desktop\CS Programming\27. Tree\BinaryTreeTest\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\27. Tree\BinaryTreeTest\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\27. Tree\BinaryTreeTest\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+C:\Users\Apple\Desktop\CS Programming\27. Tree\BinaryTreeTest\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\CS Programming\bin\Debug\CS Programming.exe.config
+C:\Users\Apple\Desktop\CS Programming\CS Programming\bin\Debug\CS Programming.exe
+C:\Users\Apple\Desktop\CS Programming\CS Programming\bin\Debug\CS Programming.pdb
+C:\Users\Apple\Desktop\CS Programming\CS Programming\obj\Debug\CS Programming.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\CS Programming\obj\Debug\CS Programming.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\CS Programming\obj\Debug\CS Programming.exe
+C:\Users\Apple\Desktop\CS Programming\CS Programming\obj\Debug\CS Programming.pdb

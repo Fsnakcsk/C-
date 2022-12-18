@@ -1,0 +1,7 @@
+C:\Users\Apple\Desktop\CS Programming\GetSumTest\GetSumTest\obj\Debug\GetSumTest.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\CS Programming\GetSumTest\GetSumTest\obj\Debug\GetSumTest.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\CS Programming\GetSumTest\GetSumTest\bin\Debug\GetSumTest.exe.config
+C:\Users\Apple\Desktop\CS Programming\GetSumTest\GetSumTest\bin\Debug\GetSumTest.exe
+C:\Users\Apple\Desktop\CS Programming\GetSumTest\GetSumTest\bin\Debug\GetSumTest.pdb
+C:\Users\Apple\Desktop\CS Programming\GetSumTest\GetSumTest\obj\Debug\GetSumTest.exe
+C:\Users\Apple\Desktop\CS Programming\GetSumTest\GetSumTest\obj\Debug\GetSumTest.pdb
