@@ -7,7 +7,7 @@ using System.Collections;
 
 namespace Zoo
 {
-    class RandomNumber    
+    class RandomNumber     
     {
         static Random rand = new Random();
         public static int getNext(int range)
